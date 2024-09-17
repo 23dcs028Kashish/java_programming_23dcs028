@@ -51,5 +51,6 @@ E1.setsal();
 System.out.println("Employee name:"+E1.getfs()+" "+E1.getls());
 System.out.println("Salary:"+E1.getsal());
 System.out.println("\n23DCS028 KASHISH GANDHI");
+
 }
 }
