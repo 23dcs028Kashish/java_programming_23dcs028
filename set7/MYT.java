@@ -18,7 +18,7 @@ public class MYT implements Runnable {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         MYT t1 = new MYT();
         Thread t = new Thread(t1);
         t.start();
